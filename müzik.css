@@ -1,0 +1,60 @@
+.jumbotron {
+    background-color: #E9ECEF;
+}
+
+.menu {
+    height: 40px;
+    padding-top: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#index-h2 {
+    color: red;
+
+}
+
+#pro-h2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.sect {
+    text-align: center;
+    height: 1000px;
+    padding: 50px 20px;
+}
+
+.list {
+    list-style-position: inside;
+}
+
+.butonn {
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+
+.price {
+    background-color: gray;
+    color: white;
+    border-radius: 10%;
+    float: left;
+    padding: 0px 3px;
+}
+
+.card-title {
+    color: blueviolet;
+    text-align: center;
+}
+
+.cards {
+    height: 1000px;
+}
+
+h3 {
+    color: burlywood;
+}
